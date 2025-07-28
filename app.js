@@ -33,11 +33,9 @@ function listaAmigos() {
 
     // Criar botão de remover
     const botaoRemover = document.createElement("button");
-    // botaoRemover.textContent = "🗑️";
     botaoRemover.innerHTML = '<i class="fas fa-times-circle"></i>';
     botaoRemover.classList.add("button-remove");
     botaoRemover.onclick = () => removerAmigo(i);
-
     item.appendChild(botaoRemover);
     lista.appendChild(item);
   }
