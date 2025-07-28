@@ -48,13 +48,4 @@ Agradeço à **Alura Latam** e à **Oracle** pela oportunidade de aprendizado e 
 
 ---
 
-## 📛 Badges
-
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/amigo-secreto)
-![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/amigo-secreto)
-![GitHub top language](https://img.shields.io/github/languages/top/seu-usuario/amigo-secreto)
-![GitHub license](https://img.shields.io/github/license/seu-usuario/amigo-secreto)
-
----
-
 💙 Feito com dedicação para tornar o sorteio de amigo secreto mais divertido e prático!
